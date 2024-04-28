@@ -54,8 +54,8 @@ or (c,d[1],d[3],d[5],d[7]);
 endmodule
 
 # OUTPUT:
+![encoder](https://github.com/Mukilanbalamurugan/ENCODER8TO3/assets/159005942/74d59be6-3dba-4d21-8721-7448f07e8b28)
 
-![image](https://github.com/monishaTY/ENCODER8TO3/assets/167846996/7da2aca6-8544-4dd7-97ff-60a0b25cd990)
 
 # RESULT:
 
